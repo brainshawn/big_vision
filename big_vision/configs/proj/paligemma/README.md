@@ -19,9 +19,9 @@ This is the reference repository of the model, you may also want to check out th
  - [Kaggle](https://www.kaggle.com/models/google/paligemma):
  All checkpoints and model card.
  - [VertexAI Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/363):
- Paligemma models on GCP.
+ PaliGemma models on GCP.
  - [Hugging Face](https://huggingface.co/google/paligemma-3b-pt-224):
- PyTorch port of paligemma models.
+ PyTorch port of PaliGemma models.
  - [Light finetuning colab](https://colab.research.google.com/github/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/finetune_paligemma.ipynb):
   Lightweight colab for fine-tuning PaliGemma. It can be run on a single T4 GPU (16GB)
   available on free Colab.
